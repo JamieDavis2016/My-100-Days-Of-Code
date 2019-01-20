@@ -2,6 +2,23 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+
+### Day 20: 20 January, 2019
+
+**Today's progress**: Time spent: 1hour
+
+Started working through the ES6 challenges and really enjoyed some of the new syntax's that I've learned that ES6 provides - this will make me think about how much I've missed in the JS world
+Also done some brain storming of how I want to build a portfolio and that I will do it numerous times to work with different technologies (plain to libraries)!
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day21:
+Time Spent:1h
+Thoughts: Started and got about half way through ES6 some of the challenges made me have to think about how they were done and how some of these new syntax's work 
+- once I realised how they work I now find them amazing!
+#100daysofcode #FreeCodeCamp
+
 ### Day 19: 17 January, 2019
 
 **Today's progress**: Time spent: 1hour
