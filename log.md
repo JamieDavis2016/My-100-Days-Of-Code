@@ -2,6 +2,20 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 21: 21 January, 2019
+
+**Today's progress**: Time spent: 40mins
+
+Bit shorter today because of travel and other pains as well as going to the gym
+Found more syntax with ES6 that I didn't know existed such as string literal templates and these things are amazing in how they work.
+Also got more practice with how destructuring objects inside of a funciton works and how you can remove using an inline function from it to map the object to another object (with chosen parameters)
+really cool stuff at just the beginning! ES6 is pretty cool! :D
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day22: Time Spent:40mins Thoughts: Again found new syntaxes and how to use them in ES6 and found the string literal templates absolutely amazing, 
+when I refactor code now I will look to use these where strings are used! :D #100daysofcode #FreeCodeCamp
 
 ### Day 20: 20 January, 2019
 
