@@ -2,6 +2,25 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 22: 22 January, 2019
+
+**Today's progress**: Time spent: 1hr 10m
+
+I have finished ES6 and found it incredibly useful with some of the valueable things that ES6 has!
+However I find the way that they decided to create classes and constructors with setters and getters a little weird
+Simply because the language actually needing them is hard to explain - it's not a strictly typed language?
+
+Should research into why this is set this way!
+
+Also started the painful regular expressions!
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day23: Time Spent:1hr 10m Thoughts: Finished ES6 today complimenting this with also starting the regular expressions -
+which I plan to finish that and debugging tomorrow :)
+ need to find a way to put all this to use and keep practicing! (fcc project)! #100daysofcode #FreeCodeCamp
+ 
 ### Day 21: 21 January, 2019
 
 **Today's progress**: Time spent: 40mins
