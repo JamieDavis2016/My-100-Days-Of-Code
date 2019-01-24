@@ -2,6 +2,16 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 23: 23 January, 2019
+
+**Today's progress**: Time spent: 30m
+
+Twitter message says it all really... Still need to finish it plan on doing this in my next daily hour of code (although today wasn't an hour cause I had training)
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+Day24: Time Spent:30m Thoughts: Continued reading through and learning about the 
+Regular expressions in JS, regular expressions are by far not one of my more favorable things #100daysofcode #FreeCodeCamp
+
 ### Day 22: 22 January, 2019
 
 **Today's progress**: Time spent: 1hr 10m
