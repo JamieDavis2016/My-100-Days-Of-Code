@@ -2,6 +2,22 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+**Today's progress**: Time spent: 1hr
+
+Started and finished the debugging, that really helped me feel like I knew how to use a debugger properly when I managed to finish all of the sections in 20 minutes (mostly just reading what to do)
+Started working on basic data structure in JS and has  helped reinforce my learning of Arrays in JS (as well as what I know already)
+Especially using useful functions such as, splice, slice, pop  and shift.
+
+Found the spread operator from ES6 being used in Array's a really convenient way of coping other arrays over!
+
+Happy with this progress today and has definietly helped reinforce what I've already learnt
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day25: Time Spent:1hr Thoughts: Was a slow start to get into but finished the debugging chapter really quick and have no started the basic data structures, 
+going through arrays again after it did with the basic Javascript really helps reinforce! :) #100daysofcode #FreeCodeCamp
+
 ### Day 24: 28 January, 2019
 
 **Today's progress**: Time spent: 1hr
@@ -13,6 +29,7 @@ Going to look to start the debugging challenges tomorrow and do them in 1 sittin
 
 **Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
 
+##Tweet Message:
 Day24: Time Spent:1hr Thoughts: Finished the regular expressions in FreeCodeCamp! 
 Going to move onto debugging challenges which shouldn't take me long! :) #100daysofcode #FreeCodeCamp
 
@@ -23,6 +40,8 @@ Going to move onto debugging challenges which shouldn't take me long! :) #100day
 Twitter message says it all really... Still need to finish it plan on doing this in my next daily hour of code (although today wasn't an hour cause I had training)
 
 **Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
 Day24: Time Spent:30m Thoughts: Continued reading through and learning about the 
 Regular expressions in JS, regular expressions are by far not one of my more favorable things #100daysofcode #FreeCodeCamp
 
