@@ -2,6 +2,23 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 26: 30 January, 2019
+
+**Today's progress**: Time spent: 1hr
+
+Although I wasn't feeling up to doing that much I'm happy that I atleast completed the data structures chapter it has helped me increase my understanding of basic structures especially using them with arrays
+I also like using the object notation but the bracket notation has become easier and easier to understand
+
+Excited to start the scripting algorithims path of this Javascript course!
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day26: Time Spent:1hr Thoughts: Got distracted half way through BUT I did manage to finish the basic data structures in Javascript, 
+I liked how complex you can essentially build it. As long as you keep a clear scope it becomes much easier to track! #100daysofcode #FreeCodeCamp
+
+### Day 25: 29 January, 2019
+
 **Today's progress**: Time spent: 1hr
 
 Started and finished the debugging, that really helped me feel like I knew how to use a debugger properly when I managed to finish all of the sections in 20 minutes (mostly just reading what to do)
