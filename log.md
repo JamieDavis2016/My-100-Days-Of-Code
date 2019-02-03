@@ -2,6 +2,21 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 27: 03 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr 30mins
+
+Worked on the FCC algorithims and have managed to nearly finish of the entire section! getting closer and closer to learning more about libraries in JS
+Also thinking of creating more of a schedule
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day27:
+Time Spent:1hr
+Thoughts: Completed nearly all of the Basic algorithms in FCC, thinking of starting to make a schedule for different days, to work on multiple things at once! 
+Also read up on some stuff for work with summernote! :) #summernote #100daysofcode #FreeCodeCamp
+
 ### Day 26: 30 January, 2019
 
 **Today's progress**: Time spent: 1hr
