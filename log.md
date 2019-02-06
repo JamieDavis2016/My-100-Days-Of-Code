@@ -2,6 +2,21 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 30!: 06 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+I had done a lot of the OOP part of learning Javascript with FCC and have found it fairly easy to understand
+The only thing I didn't understand was somewhere they magically made animal become the supertype?
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day30:
+Time Spent:1hr
+Thoughts: I left the last 3 parts of object oriented programming for tomorrow as they were a different concept completely, 
+the object orientation I find much easier than algorithms maybe I need to problem solve more?
+#100daysofcode #FreeCodeCamp
 
 ### Day 29: 05 Feburary, 2019
 
