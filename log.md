@@ -2,6 +2,23 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+
+### Day 29: 05 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+Finished the algorithms and started the OOP part of JS
+I struggled with chunky monkey in creating a multi dimensional array like this
+Ended up using the basic solution and regret doing so!
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day29:
+Time Spent:1hr
+Thoughts: It took me ages to understand chunky monkey and in the end failed to actually do it 
+(I couldn't grasp creating the multi dimensional array), I've now started the object oriented programming part! #100daysofcode #FreeCodeCamp
+
 ### Day 28: 04 Feburary, 2019
 
 **Today's progress**: Time spent: 1hr
