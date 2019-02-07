@@ -2,6 +2,26 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 31: 07 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+OOP programming finished I found the IIFE, (Immediatly invoked function expression) really useful and eye opening to how people automatically run functions in specific ways
+Especially in creating modules I will be asking my work if they wrote their Javascript like this to start a chain of invoked functions!
+
+Teaching you about the concept of leaving variables and objects especially global ones so that you cannot break anything else outside of the scope you're working in
+Also found the functional programming approach really aspiring and a nice and clean way of coding! Can't wait to use this in real time
+has made me think about heavier about immutable objects and mutable objects
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day31:
+Time Spent:1hr
+Thoughts: I finished all of the OOP programming section and actually found the IIFE really helpful to clearing up how some JS was working at my workplace
+Started functional programming and have found this amazing! :)
+ #100daysofcode #FreeCodeCamp
+ 
 ### Day 30!: 06 Feburary, 2019
 
 **Today's progress**: Time spent: 1hr
