@@ -2,6 +2,23 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 31: 09 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+Done more work around functional programming doing the challenges!
+Worked on the map, filter and reduce functions and even implemented my own of them to achieve the same functionality!
+Felt like I made a lot of progress today although I'm not sure if they've gone through callbacks in JS...
+Wanting to write more code to achieve my goals!
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day32:
+Time Spent:1hr
+Thoughts: More on functional programming and I'm happy it also took a deeper visit at the map, reduce and filter functions! Have worked with ese more today from the challenges!
+#100daysofcode #FreeCodeCamp
+
 ### Day 31: 07 Feburary, 2019
 
 **Today's progress**: Time spent: 1hr
