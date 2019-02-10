@@ -2,6 +2,22 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 32: 10 Feburary, 2019
+
+**Today's progress**: Time spent: not sure hours?
+
+Finished the functional programming section on FCC and found it very intruiging getting to build global functions that are used! Especially seeing under the hood
+Have started the intermediate algorithms and am finding the general concept of what they want a lot easier than the beginner algorithms, I guess that means I'm learning!?
+Next up after these algorithms will be starting the projects! :D
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day33:
+Time Spent:1hr
+Thoughts: Finished the functional programming section on FCC! :D found it really useful and handy, it was nice to see how we're actually creating global functions that are used! (you see what's underneath the hood)!
+#100daysofcode #FreeCodeCamp
+
 ### Day 31: 09 Feburary, 2019
 
 **Today's progress**: Time spent: 1hr
