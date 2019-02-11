@@ -2,7 +2,23 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
-### Day 32: 10 Feburary, 2019
+
+### Day 34: 11 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+Only got a couple of the intermediate algorithm's done, found it very interesting and useful in how to think
+I did slightly shame myself on the pig latin one by using the help from FCC which just felt like I was cheating a little bit.
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day34:
+Time Spent:1hr
+Thoughts: Only managed to do 2 of the intermediate algorithm's today really got me thinking, I struggled a lot on the pigLatin challenge with making sure the regex was correct! But it's done now!
+#100daysofcode #FreeCodeCamp
+
+### Day 33: 10 Feburary, 2019
 
 **Today's progress**: Time spent: not sure hours?
 
@@ -18,7 +34,7 @@ Time Spent:1hr
 Thoughts: Finished the functional programming section on FCC! :D found it really useful and handy, it was nice to see how we're actually creating global functions that are used! (you see what's underneath the hood)!
 #100daysofcode #FreeCodeCamp
 
-### Day 31: 09 Feburary, 2019
+### Day 32: 09 Feburary, 2019
 
 **Today's progress**: Time spent: 1hr
 
