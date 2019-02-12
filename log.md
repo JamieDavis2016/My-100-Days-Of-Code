@@ -2,6 +2,21 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 35: 12 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+Again same issue I get either really far through it really quick and usually have just small syntax issues
+Or I don't understand the algorithm / what it's asking of me and have to use the help to even understand what's happening
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day35:
+Time Spent:1hr
+Thoughts: Again this intermediate algorithm's is quite interesting to see how I go about it,
+for the most part I get about 90% of it correct and end up making smaller mistakes OR I don't get it at all >.<
+#100daysofcode #FreeCodeCamp
 
 ### Day 34: 11 Feburary, 2019
 
