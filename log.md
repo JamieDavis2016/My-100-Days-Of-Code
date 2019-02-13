@@ -2,6 +2,23 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 36: 13 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+Made lots of progress and was doing these intermediate algorithm's faster
+I didn't do the prime numbers one very well as I've not been very good with them in the past (used help on it)
+I again was getting it about 95% correct in implementation and in my thinking and was making fewer mistakes
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day36:
+Time Spent:1hr
+Thoughts: I made the same again with how I progressed in doing the intermediate algorithms, 
+have got 6 left to do, I made 1 mistake where I couldn't figure out what went wrong that I needed help with, was using the wrong loop :)
+#100daysofcode #FreeCodeCamp
+
 ### Day 35: 12 Feburary, 2019
 
 **Today's progress**: Time spent: 1hr
