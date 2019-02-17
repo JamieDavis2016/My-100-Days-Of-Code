@@ -2,6 +2,17 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 37: 16 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+Had to do more work on my job :/
+
+Day37:
+Time Spent:2/3hrs
+Thoughts: Was doing extra work for my job creating pattern matching in Js with regex! This was a nice way to go over the 
+Regex that was covered in freecodecamp! I didn't get any other time to learn today :( #100daysofcode #FreeCodeCamp
+
 ### Day 36: 13 Feburary, 2019
 
 **Today's progress**: Time spent: 1hr
