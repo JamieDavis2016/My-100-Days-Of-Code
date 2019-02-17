@@ -2,12 +2,24 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 38: 17 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+Had finished  the algorithm's the last couple I found really good to do, although the last one had me confused for a while so I seeked help for it
+Reminded me of when I was doing more math based algorithm's
+
+##Tweet Message:
+Day38: Time Spent:1hr Thoughts: Finished the Algorithm's on the FreecodeCamp site! 
+now only projects left of the JS, I may start doing some basic projects now to increase my learning still :) yay! #100daysofcode #FreeCodeCamp
+
 ### Day 37: 16 Feburary, 2019
 
 **Today's progress**: Time spent: 1hr
 
 Had to do more work on my job :/
 
+##Tweet Message:
 Day37:
 Time Spent:2/3hrs
 Thoughts: Was doing extra work for my job creating pattern matching in Js with regex! This was a nice way to go over the 
