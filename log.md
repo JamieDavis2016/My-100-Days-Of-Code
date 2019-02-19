@@ -2,6 +2,28 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 40: 19 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+Had finished  the algorithm's the last couple I found really good to do, although the last one had me confused for a while so I seeked help for it
+Reminded me of when I was doing more math based algorithm's
+
+##Tweet Message:
+Day40: I done a tiny bit of coding and more reading on lexical scope and closures from you don't know javascript this is to 
+compliment the js I've learned from FCC! IT's so interesting how they describe how to write closures! #100daysofcode #FreeCodeCamp
+
+### Day 39: 18 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+Had finished  the algorithm's the last couple I found really good to do, although the last one had me confused for a while so I seeked help for it
+Reminded me of when I was doing more math based algorithm's
+
+##Tweet Message:
+Day39: I took today to actually make sure I understand callbacks and closures a little more, I'm getting a bit better but it was definitely a good idea to make sure I know this.. 
+My example using an array of pushing the new data from a callback! :) #100daysofcode #FreeCodeCamp
+
 ### Day 38: 17 Feburary, 2019
 
 **Today's progress**: Time spent: 1hr
