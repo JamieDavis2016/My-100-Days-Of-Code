@@ -2,6 +2,19 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 41: 26 Feburary, 2019
+
+**Today's progress**: Time spent: 1hr
+
+Went through a couple of the algorithn's I still think I need to learn how to break them down more to be easier to work with
+I also plan on finishing the JS on FCC and then doing the personal portfolio page
+with doing the personal portfolio page I plan on doing one that will just use HTML/CSS for the user stories for FCC
+And doing another one that will try to show off all of the skills I have learnt! (So far!)
+
+##Tweet Message:
+Day40: Thoughts: After a few days of not finding the time or being lazy I'm back! Just went through and done a couple of the Javascript projects from FCC, 
+the ceaser one I found fine, I had to do that in C a while ago so already had the gist of it! :) #100daysofcode #FreeCodeCamp
+
 ### Day 40: 19 Feburary, 2019
 
 **Today's progress**: Time spent: 1hr
