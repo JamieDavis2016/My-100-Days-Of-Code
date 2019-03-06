@@ -2,6 +2,14 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 43: 06 March, 2019
+**Today's progress**: Time spent: 1hr
+
+Going to redo a lot of the FCC's JS projects just to ensure I can do them and do understand what needs to be done
+
+##Tweet Message:
+Day42: Thoughts: Done more free code camp and reading up on JS, also setup more of my visual studio code, struggling with what to do next? #100daysofcode #FreeCodeCamp
+
 ### Day 42: 04 March, 2019
 **Today's progress**: Time spent: 1hr
 
