@@ -2,6 +2,27 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 43: 12 March, 2019
+**Today's progress**: Time spent: 1hr
+
+Started working on my own portfolio and this is just a start of pushing myself to work on projects and realise how far I can push myself
+Only using vanilla CSS and JS aside from CSS flexbox - This is to test and expand my CSS and HTML knowledge as I feel more confident in my Javascript now
+
+As a developer and someone with a degree I feel that my skills are very weak to what they should be and this is probably due to not practicing these skills.
+Especially for how powerful they are.
+
+Making a start is the best thing
+I'm going to keep expanding my portfolio and may create a backend for my projects and other resources for me to use on the fly (like a members section)
+
+Also may try to expand on writing more selenium tests to help show my automated testing knowledge and keep growing my automated testing
+As well as expanding my web development and design knowledge.
+
+May look for more books on these areas.
+
+##Tweet Message:
+Day43: Thoughts: Started my portfolio in my own text editor! This is a start to doing more projects and constantly googling what I don't know! Is this the way that everyone starts? :) 
+Going to constantly expand on my portfolio to show what I know! #100daysofcode #FreeCodeCamp
+
 ### Day 43: 06 March, 2019
 **Today's progress**: Time spent: 1hr
 
