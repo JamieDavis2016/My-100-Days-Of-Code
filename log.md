@@ -2,6 +2,15 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 44: 26 March, 2019
+**Today's progress**: Time spent: 1hr
+
+##Tweet Message: 
+
+Day44:
+Thoughts: Been away the past couple of weeks so haven't had anytime to do this! and been lazy, today was looking into the best ways to setup my local dev environment
+ and haven't really found any answers, any help would be greatly appreciated :) #100daysofcode #FreeCodeCamp
+
 ### Day 43: 12 March, 2019
 **Today's progress**: Time spent: 1hr
 
