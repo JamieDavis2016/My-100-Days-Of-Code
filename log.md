@@ -2,6 +2,15 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 45: 27 March, 2019
+**Today's progress**: Time spent: 1hr
+
+Going to try and sit and write more CSS and learn CSS and HTML at a much deeper level! As I was trying to write my portfolio and shows that I was still not capable of doing so
+
+##Tweet Message: 
+Day45: Thoughts: Spent more time reading on web design, since I want to be able to create better design. Going to go back to writing flexbox for a fair few more hours each night with more CSS
+ until I feel more comfortable. how long will it take? #100daysofcode #FreeCodeCamp
+
 ### Day 44: 26 March, 2019
 **Today's progress**: Time spent: 1hr
 
