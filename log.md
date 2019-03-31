@@ -5,6 +5,18 @@
 ### Day 45: 27 March, 2019
 **Today's progress**: Time spent: 1hr
 
+Going to try and make more CSS navbars and then go to bodies etc and hopefully with this I will progress quicker at making websites with pure css! :)
+Felt good to be able to make a navbar with only a bit of searching etc
+
+##Tweet Message: 
+Day46:
+Thoughts: Done a fair bit of messing around with css and remembering how important the damn box model is to remember - created my navbar for my 
+portfolio but may change over time, creating this all with pure css rather than using a framework!
+#100daysofcode #FreeCodeCamp
+
+### Day 45: 27 March, 2019
+**Today's progress**: Time spent: 1hr
+
 Going to try and sit and write more CSS and learn CSS and HTML at a much deeper level! As I was trying to write my portfolio and shows that I was still not capable of doing so
 
 ##Tweet Message: 
