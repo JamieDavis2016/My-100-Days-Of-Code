@@ -2,7 +2,17 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
-### Day 45: 27 March, 2019
+### Day 47: 1 April, 2019
+**Today's progress**: Time spent: 1hr
+
+Creating extra navbars - This is to ensure I'm understanding CSS more and more before I move onto bigger parts such as full contents of a web page 
+Looking back at some of the pages I done with FCC might be a good start to help as well.
+
+##Tweet Message:
+Day47: Thoughts: Worked on recreating some navbars to further my knowledge with CSS - 
+Plan on doing this for 30 days to see if I can start to do it more from scratch - Getting a better understanding of CSS box model and flexbox this has helped! #100daysofcode #FreeCodeCamp
+
+### Day 46: 31 March, 2019
 **Today's progress**: Time spent: 1hr
 
 Going to try and make more CSS navbars and then go to bodies etc and hopefully with this I will progress quicker at making websites with pure css! :)
