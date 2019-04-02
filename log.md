@@ -2,6 +2,16 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 48: 2 April, 2019
+**Today's progress**: Time spent: 20mins
+
+Didn't have time today but still done something
+
+##Tweet Message:
+Day48: Thoughts: Worked on recreating some navbars to further my knowledge with CSS - Just a very short one today 
+- Aligned a navbar more easily 
+- Understanding that with CSS you should like up the DOM if something won't align the way you want #100daysofcode #FreeCodeCamp
+
 ### Day 47: 1 April, 2019
 **Today's progress**: Time spent: 1hr
 
