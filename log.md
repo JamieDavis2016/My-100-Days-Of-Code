@@ -2,6 +2,21 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 49: 3 April, 2019
+**Today's progress**: Time spent: 20mins
+
+Was looking at a few ways that people do hamburgers to make their navbars more responsive however it also depends where you place it in DOM to work in certain orders or how you want it to appear
+
+Day49: Thoughts: Was trying to make my navbars more responsive that I'm creating after looking at a website I have no freaking idea how they do it, 
+there's no event on it for JS) and has no responsiveness in the CSS? - Made a semi responsive navbar! #100daysofcode #FreeCodeCamp
+
+The diqus navbar I'm not sure how they're doing the reposnive part if it's with CSS or with JS or a mixture... May look to ask someone about this?
+
+**Link To work:** [Navbar ideas] (https://www.dtelepathy.com/blog/inspiration/23-great-examples-of-innovative-navigation-for-your-inspiration)
+**Link To work:** [Navbar that I was trying to recreate] (https://disqus.com/features/engage/)
+**Link To work:** [W3 Menu Icon] (https://www.w3schools.com/howto/howto_css_menu_icon.asp)
+**Link To work:** [W3 Try It] (https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_menu_icon_js)
+
 ### Day 48: 2 April, 2019
 **Today's progress**: Time spent: 20mins
 
