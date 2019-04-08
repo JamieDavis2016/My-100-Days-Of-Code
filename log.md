@@ -2,6 +2,19 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 50: 8 April, 2019
+
+1: Create the styling touches to make it more fluent - check that the responsiveness works as well - not including Javascript
+2: Created the boxing and padding for the get started and the underline.
+3: Figured out how to make the page respond better - need to have the JS fill in the CSS
+
+Helped me understand how to use the Box model to track certain changes easier as well as positioning in CSS!
+
+##Tweet Message:
+Day50: Thoughts: More CSS with some small projects making navbars and expanding on them! 
+Got a much better understanding how positioning works in CSS as well as the after and before selectors! 
+Another thing that's really helpful is the box model! :) #100daysofcode #FreeCodeCamp
+
 ### Day 49: 3 April, 2019
 **Today's progress**: Time spent: 20mins
 
