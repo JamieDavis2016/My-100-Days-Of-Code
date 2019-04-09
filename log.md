@@ -2,6 +2,16 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 51: 9 April, 2019
+1: Created more responsiveness to the navbar
+
+
+##Tweet Message:
+Day51:
+Thoughts: Got the responsive navbar working and works as well as I can imagine a navbar working! :)
+Going to look to add more CSS to content and seeing how designers do it so I get more of an idea of it!
+#100daysofcode #FreeCodeCamp
+
 ### Day 50: 8 April, 2019
 
 1: Create the styling touches to make it more fluent - check that the responsiveness works as well - not including Javascript
