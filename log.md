@@ -2,6 +2,14 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 52: 10 April, 2019
+1: Set the responsive boxes to work with the page
+
+##Tweet Message:
+Day52:
+Thoughts: Turns out display and position are always important when they're not inheriting hmm, oh well done more on design today! :)
+#100daysofcode #FreeCodeCamp
+
 ### Day 51: 9 April, 2019
 1: Created more responsiveness to the navbar
 
