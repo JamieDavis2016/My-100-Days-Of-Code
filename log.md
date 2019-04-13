@@ -2,6 +2,22 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+Day 53: 13 April, 2019
+1: Setup volleyball club site to start working on it (git etc) - Start navbar (/)
+2: Add more content for the body - Style the navbar a bit (/)
+3: Adjust positioning on logo, extend how the navbar looks i.e create a border / highlighting (/)
+4: Add responsiveness to navbar (/)
+
+**Link To work:** [W3 Top navbar] (https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
+**Link To work:** [Volleyball site] (https://www.richmondvolleyball.co.uk/)
+**Link To work:** [Volleyball site] (https://volleycountry.com/news/the-10-best-volleyball-sstes)
+**Link To work:** [Designers navbar (really nice!)] (https://www.youtube.com/watch?v=LOWjWRy_Kks)
+
+##Tweet Message:
+Day53:
+Thoughts: Started my web app for my volleyball club just messing with some designs and writing all of the CSS myself as I want to be able to do everything without frameworks (font-awesome doesn't count)
+#100daysofcode #FreeCodeCamp
+
 ### Day 52: 10 April, 2019
 1: Set the responsive boxes to work with the page
 
@@ -9,6 +25,7 @@
 Day52:
 Thoughts: Turns out display and position are always important when they're not inheriting hmm, oh well done more on design today! :)
 #100daysofcode #FreeCodeCamp
+
 
 ### Day 51: 9 April, 2019
 1: Created more responsiveness to the navbar
