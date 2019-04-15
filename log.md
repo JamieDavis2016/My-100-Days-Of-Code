@@ -2,6 +2,21 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+Day 54: 14 April, 2019
+1: Created a more responsive website, this was the practical side of what I've achieved today, also gained a bit more experiencen not spending so long looking at why something looks weird
+2: Read up on how designers usually go about there sites, from a couple of QUORA questions and Google devs they recommend you doing a mobile firsta approach
+3: Looked up some more inspirational volleyball sites, going to attempt to build a site like the NVVA while adding my own twists into it
+
+**Link To work:** [Google dev designers guide] (https://developers.google.com/web/fundamentals/codelabs/your-first-multi-screen-site/)
+**Link To work:** [NVVA Volleyball site] (https://www.nvva.com/)
+
+
+##Tweet Message:
+Day54:
+Thoughts: Continued with the web app for the volleyball club, going to look at doing a couple of designs and then presenting them, trying to understand what my team want more,
+also check out some design guides from QUORA and Google, they recommend always designing mobile first and expanding out! That way you can see what needs to have media queries in!
+#100daysofcode #FreeCodeCamp
+
 Day 53: 13 April, 2019
 1: Setup volleyball club site to start working on it (git etc) - Start navbar (/)
 2: Add more content for the body - Style the navbar a bit (/)
