@@ -2,7 +2,42 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
-Day 54: 14 April, 2019
+Day 56: 17 April, 2019
+
+1: Continue with mobile first design, looking at the starting content of the page, add a temporary image to get a better idea
+2: Added lots more content
+3: Kept to the same colouring scheme
+4: added a video section
+5: added an images section
+
+Now I need to get some feedback and change the dummy data for real data for what the client wants
+I also have still currently only developed for mobile first, the next responsive layer is after the mobile layout is finished.
+
+**Link To work:** [Google dev designers guide] (https://developers.google.com/web/fundamentals/codelabs/your-first-multi-screen-site/)
+**Link To work:** [NVVA Volleyball site] (https://www.nvva.com/)
+
+##Tweet Message:
+Day56:
+Thoughts: Added more content to my first mobile site design, am understanding why we do mobile more it's easier when going through breakpoints!
+Kept to a colouring scheme which makes things easier and now need to get some feedback from the client for content
+#100daysofcode #FreeCodeCamp
+
+
+Day 55: 16 April, 2019
+1: Re read the google designs
+2: Used more of an idea of creating content before deciding to style my page
+3: Restarted another iteration of the page 
+
+**Link To work:** [Google dev designers guide] (https://developers.google.com/web/fundamentals/codelabs/your-first-multi-screen-site/)
+**Link To work:** [NVVA Volleyball site] (https://www.nvva.com/)
+
+##Tweet Message:
+Day55:
+Thoughts: Created a cover page for the site and ended up restarting the other one as I think I can do the design better, will decide how this iteration goes and what I can improve on!
+Learnt more about how to go about design etc.
+#100daysofcode #FreeCodeCamp
+
+Day 54: 15 April, 2019
 1: Created a more responsive website, this was the practical side of what I've achieved today, also gained a bit more experiencen not spending so long looking at why something looks weird
 2: Read up on how designers usually go about there sites, from a couple of QUORA questions and Google devs they recommend you doing a mobile firsta approach
 3: Looked up some more inspirational volleyball sites, going to attempt to build a site like the NVVA while adding my own twists into it
