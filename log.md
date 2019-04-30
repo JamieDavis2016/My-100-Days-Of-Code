@@ -13,8 +13,7 @@ Day 59: 30 April, 2019
 
 ##Tweet Message:
 Day59:
-After a small hiatus I'm back and I'm going to be more critical to doing it daily! Done more work to the volleyball site making it responsive! :) 
-Happy with the progress so far!
+After a small hiatus I'm back and I'm going to be more critical when doing this! (aside thursdays are the most difficult) I've done 3 days without Twitter
 #100daysofcode #FreeCodeCamp
 
 Day 58: 29 April, 2019
