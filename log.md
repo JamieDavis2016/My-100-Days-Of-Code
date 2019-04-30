@@ -2,6 +2,47 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+Day 59: 30 April, 2019
+
+1: Adding transitions, looking into how to have animation on page load
+2: Changed how I wanted to do the design for the hover cards as they won't be mobile friendly
+
+**Link To work:** [SO for animation on load] (https://stackoverflow.com/questions/6805482/css3-transition-animation-on-load)
+**Link To work:** [Adding animation example] (https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-enhance-a-page-with-css-animations--cms-32100)
+**Link To work:** [Card flipping with css] (http://css3.bradshawenterprises.com/flip/)
+
+##Tweet Message:
+Day59:
+After a small hiatus I'm back and I'm going to be more critical to doing it daily! Done more work to the volleyball site making it responsive! :) 
+Happy with the progress so far!
+#100daysofcode #FreeCodeCamp
+
+Day 58: 29 April, 2019
+
+1: Adding transitions
+
+##Tweet Message:
+Day58:
+After a small hiatus I'm back and I'm going to be more critical to doing it daily! Done more work to the volleyball site making it responsive! :) 
+Happy with the progress so far!
+#100daysofcode #FreeCodeCamp
+
+Day 57: 28 April, 2019
+
+1: Create navbar / responsive navbar for mobile
+
+After a hiatus I'm back and I'm going to try and be more consistent when I do these days. As it is important to me.
+I'm going to plan out what I want to achieve and do it through that.
+
+**Link To work:** [Google dev designers guide] (https://developers.google.com/web/fundamentals/codelabs/your-first-multi-screen-site/)
+**Link To work:** [NVVA Volleyball site] (https://www.nvva.com/)
+
+##Tweet Message:
+Day57:
+After a small hiatus I'm back and I'm going to be more critical to doing it daily! Done more work to the volleyball site making it responsive! :) 
+Happy with the progress so far!
+#100daysofcode #FreeCodeCamp
+
 Day 56: 17 April, 2019
 
 1: Continue with mobile first design, looking at the starting content of the page, add a temporary image to get a better idea
