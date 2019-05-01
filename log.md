@@ -2,6 +2,21 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+Day 60: 1 May, 2019
+
+1: Created a Kanban board to have a better understanding
+2: Going to create a personal development one as well as a seperate one for the volleyball team site, This is to show when I've completed a course and it's making planning my learning easier!
+
+**Link To work:** [SO for animation on load] (https://stackoverflow.com/questions/6805482/css3-transition-animation-on-load)
+**Link To work:** [Adding animation example] (https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-enhance-a-page-with-css-animations--cms-32100)
+**Link To work:** [Card flipping with css] (http://css3.bradshawenterprises.com/flip/)
+
+##Tweet Message:
+Day60:
+Started a Trello and have created my own kanban board for learning as well as for developing the volleyball site testing to see if this makes things easier to understand!
+I'm not sure how I want to go about creating the learning kanban board, such as an epic for learning a topic and everything I've done for that topic?
+#100daysofcode #FreeCodeCamp
+
 Day 59: 30 April, 2019
 
 1: Adding transitions, looking into how to have animation on page load
