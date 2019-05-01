@@ -7,6 +7,8 @@ Day 60: 1 May, 2019
 1: Created a Kanban board to have a better understanding
 2: Going to create a personal development one as well as a seperate one for the volleyball team site, This is to show when I've completed a course and it's making planning my learning easier!
 
+Also learnt about some improvements I can make to my site through someone on Twitter, this has given me a task that I can now look at and do on my kanban board!
+
 **Link To work:** [SO for animation on load] (https://stackoverflow.com/questions/6805482/css3-transition-animation-on-load)
 **Link To work:** [Adding animation example] (https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-enhance-a-page-with-css-animations--cms-32100)
 **Link To work:** [Card flipping with css] (http://css3.bradshawenterprises.com/flip/)
