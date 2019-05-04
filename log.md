@@ -2,6 +2,22 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+Day 61: 4 May, 2019
+
+1: Looked up colour schemes and fonts
+2: Re-wrote my JS solution to the palindrome checker
+3: Created a trello board for a project and am going to test how this goes
+4: Made some changes using a better image on the website
+
+**Link To work:** [SO for animation on load] (https://stackoverflow.com/questions/6805482/css3-transition-animation-on-load)
+**Link To work:** [Adding animation example] (https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-enhance-a-page-with-css-animations--cms-32100)
+**Link To work:** [Card flipping with css] (http://css3.bradshawenterprises.com/flip/)
+
+##Tweet Message:
+Day61: Done more on my trello board, now have made a project board and a web learning board, not sure how I want to layout the learning board?
+Also changed some images and fonts on the website and done some FCC challenges for JS again
+#100daysofcode #FreeCodeCamp
+
 Day 60: 1 May, 2019
 
 1: Created a Kanban board to have a better understanding
