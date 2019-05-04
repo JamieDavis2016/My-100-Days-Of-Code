@@ -9,9 +9,9 @@ Day 61: 4 May, 2019
 3: Created a trello board for a project and am going to test how this goes
 4: Made some changes using a better image on the website
 
-**Link To work:** [SO for animation on load] (https://stackoverflow.com/questions/6805482/css3-transition-animation-on-load)
-**Link To work:** [Adding animation example] (https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-enhance-a-page-with-css-animations--cms-32100)
-**Link To work:** [Card flipping with css] (http://css3.bradshawenterprises.com/flip/)
+**Link To work:** [Google Fonts] (https://fonts.google.com/)
+**Link To work:** [Colour schemes] (https://coolors.co/)
+**Link To work:** [Colour palete] (https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 
 ##Tweet Message:
 Day61: Done more on my trello board, now have made a project board and a web learning board, not sure how I want to layout the learning board?
