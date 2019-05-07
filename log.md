@@ -2,6 +2,21 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+Day 62: 7 May, 2019
+
+1: Monochromatic colour schemes
+2:
+
+**Link To work:** [Colour schemes] (https://www.youtube.com/watch?v=t_TAEkAzljo)
+**Link To work:** [Colour schemes] (https://www.youtube.com/watch?v=MjulRnUvttM)
+**Link To work:** [Monochromatic colours] (https://www.canva.com/learn/monochromatic-colors/)
+**Link To work:** [Adobe colour cc] (https://color.adobe.com/create)
+**Link To work:** [Typography] (https://www.jotform.com/blog/mixing-multiple-fonts/)
+**Link To work:** [Typography] (https://www.canva.com/learn/typography-design/)
+
+##Tweet Message:
+Day62: 
+
 Day 61: 4 May, 2019
 
 1: Looked up colour schemes and fonts
