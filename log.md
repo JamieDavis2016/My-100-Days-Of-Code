@@ -15,7 +15,9 @@ Day 62: 7 May, 2019
 **Link To work:** [Typography] (https://www.canva.com/learn/typography-design/)
 
 ##Tweet Message:
-Day62: 
+Day62:
+Learned a lot more about design with typography and monochromatic design, also found a css fundamentals in MDN and finished that in a few minutes, which wasn't hard at all :)
+#100daysofcode #FreeCodeCamp
 
 Day 61: 4 May, 2019
 
