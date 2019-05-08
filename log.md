@@ -2,10 +2,28 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+Day 63: 8 May, 2019
+
+1:Installed Node and built a basic webpack site
+2: From a conversation I should do something like this instead of reinventing the wheel for each project
+3: Looked at how I would be deploying these files to a production server, as it's just a static website I can just serve static content
+
+From a conversation on creating a template navigation bar - there's a thought on if it needs to be rendered server side (if I have a server side) or if this is purely client side a static page
+On top of this it was discussed how I make a process 100x harder by trying to do everything from the start again instead of using my strengths such as already knowing webpack
+
+
+**Link To work:** [Navbar from pure JS] (https://stackoverflow.com/questions/44502243/single-navigation-bar-across-website)
+**Link To work:** [Getting started with webpack] (https://webpack.js.org/guides/getting-started)
+**Link To work:** [NodeJs] (https://nodejs.org/en/)
+
+##Tweet Message:
+Day63: So after a conversation with a friend, he helped point out that I make things a lot harder by not using anything at all, for instance building a static site and not using something like webpack that I use at work to just make the static site
+So I've decided to add webpack to the project to build more templated HTML etc. and hopefully see how this project goes when putting it to production etc! This is exciting as I already know how to use webpack but have only used it at work! :)
+#100daysofcode #FreeCodeCamp
+
 Day 62: 7 May, 2019
 
 1: Monochromatic colour schemes
-2:
 
 **Link To work:** [Colour schemes] (https://www.youtube.com/watch?v=t_TAEkAzljo)
 **Link To work:** [Colour schemes] (https://www.youtube.com/watch?v=MjulRnUvttM)
