@@ -41,3 +41,14 @@ For tomorrow: going to do more on the product landing page
 I'm struggling to design the site because I don't know what content will be going onto the site and what is useful for people.
 
 Should look at how design all comes together to create things that look good and help people get through content.
+
+### Day 3: 01/05/20
+
+**Today's Progress**: Time Spent: 2 hours
+
+**Worked on**: Dartford Volleyball Club
+
+**Thoughts:** Adjusted the design for volleyball club, the mobile version of it is coming together and starting to get a bit more content onto the site
+
+Just need to find out what they want
+
