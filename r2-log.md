@@ -50,5 +50,15 @@ Should look at how design all comes together to create things that look good and
 
 **Thoughts:** Adjusted the design for volleyball club, the mobile version of it is coming together and starting to get a bit more content onto the site
 
-Just need to find out what they want
+Just need to find out what they want.
 
+### Day 3: 02/05/20
+
+**Today's Progress**: Time Spent: 4 hours
+
+**Worked on**: Raspberry Pi web server
+
+**Thoughts:** Learned that a broken piece will waste a lot of time!
+Fixed and got the Rpi Running with SSH straight from setup as a headless setup! Really happy with that, gotta figure out how I can save all the files and process!
+
+Wrote my first blog post with setting up the Pi that I can also use as reference that I'm really happy with!
