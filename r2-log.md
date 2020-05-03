@@ -52,7 +52,7 @@ Should look at how design all comes together to create things that look good and
 
 Just need to find out what they want.
 
-### Day 3: 02/05/20
+### Day 4: 02/05/20
 
 **Today's Progress**: Time Spent: 4 hours
 
@@ -62,3 +62,13 @@ Just need to find out what they want.
 Fixed and got the Rpi Running with SSH straight from setup as a headless setup! Really happy with that, gotta figure out how I can save all the files and process!
 
 Wrote my first blog post with setting up the Pi that I can also use as reference that I'm really happy with!
+
+### Day 5: 03/05/20
+
+**Today's Progress**: Time Spent: 2 hours
+
+**Worked on**: Jekyll theme setup with blog
+
+**Thoughts:** Setup jekyll theme from scratch again after having a couple of problems! Happy with how it turned out.
+
+Want to figure out how to host this with the jekyll setup!
