@@ -72,3 +72,11 @@ Wrote my first blog post with setting up the Pi that I can also use as reference
 **Thoughts:** Setup jekyll theme from scratch again after having a couple of problems! Happy with how it turned out.
 
 Want to figure out how to host this with the jekyll setup!
+
+### Day 6: 04/05/20
+
+**Today's Progress**: Time Spent: 2 hours
+
+**Worked on**: Couldn't get jekyll thing setup properly
+
+**Thoughts:** Jekyll relative URL's didn't work as expected.. Quite angry with how much time I've spent on this.
