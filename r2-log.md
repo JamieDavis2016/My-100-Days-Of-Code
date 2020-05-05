@@ -80,3 +80,12 @@ Want to figure out how to host this with the jekyll setup!
 **Worked on**: Couldn't get jekyll thing setup properly
 
 **Thoughts:** Jekyll relative URL's didn't work as expected.. Quite angry with how much time I've spent on this.
+
+
+### Day 7: 05/05/20
+
+**Today's Progress**: Time Spent: 2 hours
+
+**Worked on**: Jekyll and blog
+
+**Thoughts:** Finished setting up my blog, hopefully going to get a post up and working tomorrow! After that I'm free to work on the other stacks I want to create, writing how I created each one!
