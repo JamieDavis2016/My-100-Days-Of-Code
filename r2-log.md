@@ -90,7 +90,7 @@ Want to figure out how to host this with the jekyll setup!
 
 **Thoughts:** Finished setting up my blog, hopefully going to get a post up and working tomorrow! After that I'm free to work on the other stacks I want to create, writing how I created each one!
 
-### Day 7: 06/05/20
+### Day 8: 06/05/20
 
 **Today's Progress**: Time Spent: 3 hours
 
