@@ -89,3 +89,14 @@ Want to figure out how to host this with the jekyll setup!
 **Worked on**: Jekyll and blog
 
 **Thoughts:** Finished setting up my blog, hopefully going to get a post up and working tomorrow! After that I'm free to work on the other stacks I want to create, writing how I created each one!
+
+### Day 7: 06/05/20
+
+**Today's Progress**: Time Spent: 3 hours
+
+**Worked on**: Blog and setting up LAMP stack
+
+**Thoughts:** I setup a small LAMP stack on my raspberryPi and have configured it to work with MariaDb, this is a great way to get started with potentially hosting applications later on!
+
+Also wrote a small article about each step that I took to do this!
+
