@@ -100,3 +100,11 @@ Want to figure out how to host this with the jekyll setup!
 
 Also wrote a small article about each step that I took to do this!
 
+### Day 9: 07/05/20
+
+**Today's Progress**: Time Spent: 4 /5  hours
+
+**Worked on**: Blogged and setup MERN stack
+
+**Thoughts:** Setting up the MERN stack was really fun once I figured out how to do it, the problem is that I haven't figured out how to have that working with Nginx yet to actually display the Javascript, I can get it displaying from localhost on the raspberry Pi, but that's all at the moment!
+
