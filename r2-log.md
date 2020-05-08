@@ -108,3 +108,11 @@ Also wrote a small article about each step that I took to do this!
 
 **Thoughts:** Setting up the MERN stack was really fun once I figured out how to do it, the problem is that I haven't figured out how to have that working with Nginx yet to actually display the Javascript, I can get it displaying from localhost on the raspberry Pi, but that's all at the moment!
 
+### Day 10: 08/05/20
+
+**Today's Progress**: Time Spent: 4 /5  hours
+
+**Worked on**: Setup sub domain and CI 
+
+**Thoughts:** Ci isn't working as I expected it too, the build keeps crashing on travis ci
+
