@@ -116,3 +116,10 @@ Also wrote a small article about each step that I took to do this!
 
 **Thoughts:** Ci isn't working as I expected it too, the build keeps crashing on travis ci
 
+### Day 11: 08/05/20
+
+**Today's Progress**: Time Spent: 4 /5  hours
+
+**Worked on**: Setup CI on github
+
+**Thoughts:** Got the CI working but didn't get CD working on git yet, hope to finish this tomorrow, should of done a lot more today.
