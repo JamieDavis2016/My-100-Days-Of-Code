@@ -116,10 +116,26 @@ Also wrote a small article about each step that I took to do this!
 
 **Thoughts:** Ci isn't working as I expected it too, the build keeps crashing on travis ci
 
-### Day 11: 08/05/20
+### Day 11: 09/05/20
 
 **Today's Progress**: Time Spent: 4 /5  hours
 
 **Worked on**: Setup CI on github
 
 **Thoughts:** Got the CI working but didn't get CD working on git yet, hope to finish this tomorrow, should of done a lot more today.
+
+### Day 12: 13/05/20
+
+**Today's Progress**: Time Spent: 2 / 3 hours
+
+**Worked on**: Released first blog post
+
+**Thoughts:** Got my first blog post out the door @ https://blog.itsbeenjamied.co.uk, happy that I finally managed to get that done was cool to be releasing something, I hope to do a lot more bits of code as it's just fun and motivational
+
+### Day 13: 14/05/20
+
+**Today's Progress**: Time Spent: 1 hour
+
+**Worked on**: Played flexbox froggy
+
+**Thoughts:** I had a bit of fun playing flexbox froggy this has made me feel fairly confident in flexbox I just don't feel confident in designing websites and how to make them look nice! Maybe I'll get the hang of that one day.
