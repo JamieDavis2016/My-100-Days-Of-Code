@@ -139,3 +139,12 @@ Also wrote a small article about each step that I took to do this!
 **Worked on**: Played flexbox froggy
 
 **Thoughts:** I had a bit of fun playing flexbox froggy this has made me feel fairly confident in flexbox I just don't feel confident in designing websites and how to make them look nice! Maybe I'll get the hang of that one day.
+
+### Day 14: 18/05/20
+
+**Today's Progress**: Time Spent: 1 hour
+
+**Worked on**: Worked on Client Site
+
+**Thoughts:** Did some more work on client site I felt better at using flexbox out of the blow this time round which felt nice to make the design look how I wanted it too look!
+
