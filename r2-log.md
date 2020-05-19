@@ -148,3 +148,11 @@ Also wrote a small article about each step that I took to do this!
 
 **Thoughts:** Did some more work on client site I felt better at using flexbox out of the blow this time round which felt nice to make the design look how I wanted it too look!
 
+### Day 15: 19/05/20
+
+**Today's Progress**: Time Spent: 1 hour
+
+**Worked on**: Worked on Client Site
+
+**Thoughts:** Did some more work for the mobile part of the site
+
